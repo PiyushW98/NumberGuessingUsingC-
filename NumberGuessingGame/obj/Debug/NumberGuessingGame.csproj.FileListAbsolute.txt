@@ -1,0 +1,7 @@
+F:\CSharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe.config
+F:\CSharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.exe
+F:\CSharp\NumberGuessingGame\NumberGuessingGame\bin\Debug\NumberGuessingGame.pdb
+F:\CSharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.AssemblyReference.cache
+F:\CSharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.csproj.CoreCompileInputs.cache
+F:\CSharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.exe
+F:\CSharp\NumberGuessingGame\NumberGuessingGame\obj\Debug\NumberGuessingGame.pdb
